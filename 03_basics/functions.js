@@ -75,3 +75,4 @@ function handleArray(array) {
 
  console.log(handleArray([100, 200, 300, 400])); // 1000
  
+ 
